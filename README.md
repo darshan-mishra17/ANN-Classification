@@ -1,2 +1,0 @@
-# ANN-Classification
-ANN Implementation
